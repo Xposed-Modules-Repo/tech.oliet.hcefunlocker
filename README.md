@@ -1,6 +1,6 @@
 # [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker)
 
-An Xposed Module that Unlocks HCE-F (Host Card Emulation Type F) IDm and System code restrictions.
+An Xposed Module that Unlocks [HCE-F](https://source.android.com/docs/core/connect/felica) (Host Card Emulation Type F) IDm and System code restrictions.
 
 You need to unhide `System apps` and select `Nfc Service`.
 
