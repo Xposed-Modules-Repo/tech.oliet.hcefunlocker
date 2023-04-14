@@ -2,6 +2,8 @@
 
 An Xposed Module that Unlocks [HCE-F](https://source.android.com/docs/core/connect/felica) (Host Card Emulation Type F) IDm and System code restrictions.
 
+## Below steps are probably no longer required
+
 [How to unlock HCE-F with LSPosed - YouTube](https://www.youtube.com/watch?v=_qb6W6SBUTQ)
 
 You need to unhide `System apps` and select `Nfc Service`.
